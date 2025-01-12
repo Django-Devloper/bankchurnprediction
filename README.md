@@ -12,3 +12,4 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+live on https://bankchurnpredictionann.streamlit.app/
